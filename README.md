@@ -6,13 +6,13 @@ Fue desarrollado con HTML, CSS y JS con el uso de el framework de UI, Bootstrap 
 
 La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 
-[Proyecto Desplegado (https://portafolio-mali.vercel.app/)](https://portafolio-mali.vercel.app/)
+[Proyecto Desplegado (https://portafolio-three-mauve.vercel.app/)](https://portafolio-three-mauve.vercel.app/)
 ## Secciones de mi sitio
-![Presentación](assets/readme/1.png)
-![Habilidades](assets/readme/2.png)
-![Proyectos](assets/readme/3.png)
-![Testimonios](assets/readme/4.png)
-![Contacto](assets/readme/5.png)
+![Presentación](assets/presentacion.png)
+![Habilidades](assets/Habilidades.png)
+![Proyectos](assets/proyectos.png)
+![Testimonios](assets/testimonios.png)
+![Contacto](assets/contacto.png)
 ## Tecnologías
 * HTML
 * CSS
@@ -20,5 +20,5 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 * Javascript
 ---
 ---
-Desarrollado con 💜 por [Carolina Cervera](https://malinali.dev/) en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/).
+Desarrollado con 💜 por [Carolina Cervera] en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/).
 
